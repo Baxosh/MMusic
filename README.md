@@ -1,5 +1,24 @@
 # Getting Started with Create React App
 
+
+git config --global user.name "firstname lastname"
+git config --global user.email "example@gmail.com"
+git config --global user.password "secret"
+
+git remote add origin git@github.com:Baxosh/MMusic.git
+
+git init
+
+git config core.autocrlf true
+
+1. git add .
+2. git commit -m 'first commit'
+3. git branch first # branch yasash
+4. git checkout first # yangi yasalgan branchga o'tish
+5. 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
