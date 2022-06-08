@@ -11,11 +11,15 @@ git init
 
 git config core.autocrlf true
 
-1. git add .
-2. git commit -m 'first commit'
-3. git branch first # branch yasash
-4. git checkout first # yangi yasalgan branchga o'tish
-5. 
+git status # statusni ko'rish
+
+1. git branch # branchlarni ko'rish
+2. git branch first # branch yasash
+3. git checkout first # yangi yasalgan branchga o'tish
+4. git add .
+5. git commit -m 'first commit'
+6. git push origin first
+7. githubga o'tib pull request ochish.
 
 
 
